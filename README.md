@@ -1,0 +1,1 @@
+[Proyecto basado en el ejemplo de Contoso University - .NET core 2.0 Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/)
